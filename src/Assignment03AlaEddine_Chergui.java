@@ -6,7 +6,7 @@ public class Assignment03AlaEddine_Chergui {
 
 		
 		    // Program rolls a 10-sided dice 1000 times and records the number
-		    // of occurrences of each result.
+		    // of occurrences of each result
 		    
 		    int roll = 0;
 		    int[] diceRolls = new int[10];  // Stores counts for each face 1 to 10
